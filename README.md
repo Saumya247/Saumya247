@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saumya247
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and machine learning
 - 🌱 I’m currently learning Java Script and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
